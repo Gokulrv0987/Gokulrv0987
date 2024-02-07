@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Gokulrv0987
+- 👀 I’m interested in application development
+- 🌱 I’m currently learning c programming
